@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main>
+    <main style={{ position: "relative" }}>
       <div>
         <h1>Hello world</h1>
       </div>
